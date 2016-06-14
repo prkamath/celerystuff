@@ -1,0 +1,8 @@
+[2016-06-14 09:22:01] DEBUG [abacus_celery.add:10] before sleep
+[2016-06-14 09:22:06] DEBUG [abacus_celery.add:12] after sleep
+[2016-06-14 09:22:10] DEBUG [abacus_celery.add:10] before sleep
+[2016-06-14 09:22:15] DEBUG [abacus_celery.add:12] after sleep
+[2016-06-14 09:22:50] DEBUG [abacus_celery.add:10] before sleep
+[2016-06-14 09:22:55] DEBUG [abacus_celery.add:12] after sleep
+[2016-06-14 09:23:34] DEBUG [abacus_celery.add:10] before sleep
+[2016-06-14 09:23:39] DEBUG [abacus_celery.add:12] after sleep
